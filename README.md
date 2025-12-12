@@ -1,12 +1,14 @@
 
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
-
-# Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
+### Name: Sethupathi K
+### Reg no: 212223040189
+## Aim: 
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
 
-# Explanation: 
+## Explanation: 
 Define the Two Prompt Types:
 
 Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model.
@@ -33,6 +35,14 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
-# OUTPUT
+## OUTPUT
+### A Comparative Analysis of AI Prompting Patterns
+This document provides a detailed analysis of how different prompting patterns affect the responses of AI models. We test and compare how models respond to Broad/Unstructured Prompts versus Basic/Refined Prompts across multiple scenarios, analyzing the quality, accuracy, and depth of the generated responses.
 
-# RESULT: The prompt for the above said problem executed successfully
+### 1. Introduction to Prompting Patterns
+Prompt engineering is the art of crafting effective inputs (prompts) to guide AI models toward desired outputs. The structure of a prompt significantly impacts the quality, relevance, and creativity of the generated content.
+
+#### Basic/Refined Prompts: These are clear, concise, and well-defined. They provide explicit instructions, specifying the desired format, length, tone, or specific information. They aim for direct, accurate responses.
+
+#### Broad/Unstructured Prompts: These prompts are open-ended, ambiguous, or less prescriptive. They encourage the model to be more creative but can also result in less focused or irrelevant responses.
+
